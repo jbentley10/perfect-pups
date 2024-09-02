@@ -40,9 +40,8 @@ export default function RootLayout({
         <link rel='icon' href='/favicon.ico' sizes='any' />
       </head>
       <body>
-        <Navigation />
         {children}
-        <Footer />
+  
       </body>
     </html>
   );
