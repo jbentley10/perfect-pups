@@ -80,7 +80,7 @@ export default function Component() {
               <div className="space-y-2">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">About Us</h2>
                 <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  At Doggy Delights, we're passionate about matching puppies with their forever homes. Our team of
+                  At Doggy Delights, we&apos;re passionate about matching puppies with their forever homes. Our team of
                   experienced breeders ensures that all our dogs are healthy, well-socialized, and ready to become a
                   cherished part of your family.
                 </p>
@@ -135,7 +135,7 @@ export default function Component() {
                 </p>
                 <h3 className="text-2xl font-bold tracking-tighter sm:text-3xl md:text-4xl">Finding Forever Homes</h3>
                 <p className="max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  At Doggy Delights, we don't just sell puppies - we match them with loving families. Our thorough adoption process includes:
+                  At Doggy Delights, we don&apos;t just sell puppies - we match them with loving families. Our thorough adoption process includes:
                 </p>
                 <ul className="list-disc list-inside space-y-2 text-muted-foreground">
                   <li>In-depth interviews with potential adopters</li>
@@ -161,7 +161,7 @@ export default function Component() {
               <div className="flex flex-col justify-center space-y-4">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Get in Touch</h2>
                 <p className="max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  Have questions about our puppies or the adoption process? We're here to help! Fill out the form, and we'll get back to you as soon as possible.
+                  Have questions about our puppies or the adoption process? We&apos;re here to help! Fill out the form, and we&apos;ll get back to you as soon as possible.
                 </p>
                 <ul className="space-y-2 text-muted-foreground">
                   <li>Phone: (123) 456-7890</li>
